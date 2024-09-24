@@ -8,4 +8,4 @@ class C implements I {
         echo "This is function f from class C.\n";
     }
 }
-?>
+?> 

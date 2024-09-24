@@ -8,4 +8,4 @@ class A extends C {
         echo "This is function a1 from class A.\n";
     }
 }
-?>
+?> 

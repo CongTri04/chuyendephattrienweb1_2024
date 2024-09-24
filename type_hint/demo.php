@@ -111,7 +111,7 @@ class Demo {
         echo __FUNCTION__ . "<br>";
         return null;  
     }
-
+//a
     // NULL
 
     public function typeNullReturnA(): null {
